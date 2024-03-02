@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fecoknows%2Fecoknows&psig=AOvVaw2RAPqiM7ib2SI_uEzQ50lZ&ust=1709491950630000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCZsfWf1oQDFQAAAAAdAAAAABAZ)
+![logo](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm SHAIK ISMAIL</h1>
 <h3 align="center">Swift & DSA Enthusiast: Crafting Elegant Code and Mastering Algorithms</h3>
 
